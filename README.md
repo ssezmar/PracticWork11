@@ -5,9 +5,11 @@
 
 ### G++
 ```cpp
-wget https://github.com/ssezmar/PracticWork11.git
+git clone https://github.com/ssezmar/PracticWork11.git
 ```
-
+```cpp
+cd .\PracticWork11\ 
+```
 ```
 g++ main.cpp -o main
 ```
